@@ -1,14 +1,21 @@
 # workflow
 My web workflow with NPM, SASS, Gulp, and more.
 
-Steps for install:
+# Setup a Project
 
-Download needed software
-Git - https://git-scm.com
-Node - https://nodejs.org/en/
+# Download needed software
+* Git - https://git-scm.com
+* Node - https://nodejs.org/en/
 
-*Create <empty> repository
-*Clone <empty> repository |> git clone url
-*Initialize |> npm init
-*Install gulp |> npm install --save-dev gulp
-*Install gulp-sass |> npm install --save-dev gulp-sass
+## Repository
+* Create <empty> repository
+* Clone <empty> repository |> git clone url
+
+## Initialize
+* Initialize |> npm init
+
+## 
+* Note - on Windows add -g to get the following to work 
+* Install gulp |> npm install --save-dev gulp
+* Install gulp-sass |> npm install --save-dev gulp-sass
+* Install browser-watch |> npm install --save-dev browser-watch
