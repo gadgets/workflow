@@ -19,6 +19,7 @@ My web workflow with NPM, SASS, Gulp, and more.
 * Install gulp |> npm install --save-dev gulp
 * Install gulp-sass |> npm install --save-dev gulp-sass
 * Install browser-watch |> npm install --save-dev browser-watch
+* Install gulp-clean |> npm install --save-dev gulp-clean
 
 # Useful Settings
 
