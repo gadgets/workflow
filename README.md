@@ -14,12 +14,13 @@ My web workflow with NPM, SASS, Gulp, and more.
 ## Initialize
 * Initialize |> npm init
 
-## Install
-* Note - on Windows add -g to get the following to work 
-* Install gulp |> npm install --save-dev gulp
+## Install 
+* Install gulp |> npm install --save-dev gulp | Note - on Windows add -g to get the following to work
 * Install gulp-sass |> npm install --save-dev gulp-sass
-* Install browser-watch |> npm install --save-dev browser-watch
+* Install browser-sync |> npm install --save-dev browser-sync
+* Install gulp-autoprefixer |> npm install --save-dev gulp-autoprefixer
 * Install gulp-clean |> npm install --save-dev gulp-clean
+* Install gulp-concat |> npm install --save-dev gulp-concat
 
 # Useful Settings
 
